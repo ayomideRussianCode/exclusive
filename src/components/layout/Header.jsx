@@ -21,8 +21,8 @@ export default function Header() {
 
       <header className=" bg-white border-b">
         <div className="max-w-7xl mx-auto flex justify-between items-center px-4 py-6">
-          <div className="text-4xl font-bold">Exclusive</div>
-          <nav className=" text-lg font-medium space-x-6 hidden md:flex">
+          <div className="text-4xl font-bold inter-text">Exclusive</div>
+          <nav className=" text-lg font-light space-x-6 hidden md:flex">
             <a href="#" className="hover:underline">
               Home
             </a>
