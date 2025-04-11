@@ -53,7 +53,7 @@ export default function Footer() {
               <li>
                 {" "}
                 <Link
-                  href="/login"
+                  href="/signup"
                   className="hover:opacity-75 transition-opacity"
                 >
                   Login / Register
