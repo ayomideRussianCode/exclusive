@@ -1,5 +1,11 @@
+import AuthLayout from "../../components/layout/AuthLayout";
+import SignupForm from "../../components/auth/SignupForm";
 export default function Signup () {
     return (
-        <div>Sign up</div>
+        <>
+        <AuthLayout>
+            <SignupForm/>
+        </AuthLayout>
+        </>
     )
 }
