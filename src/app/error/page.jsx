@@ -3,7 +3,7 @@ import Button from "../../components/auth/Button";
 export default function Custom404() {
   return (
     <>
-      <div className="min-h-screen bg-white flex flex-col w-full  mx-auto ">
+      <div className="min-h-screen bg-white flex flex-col w-full mx-auto ">
         <div className="container mx-auto px-4 pt-6">
           <nav className="text-sm">
             <a className="text-gray-600 hover:text-gray-900">Home</a>
